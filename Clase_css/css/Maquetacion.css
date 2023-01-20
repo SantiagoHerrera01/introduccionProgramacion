@@ -1,0 +1,20 @@
+.contenedor{
+    width: 1500px;
+    height: 900px;
+    border: 1px solid ;
+    background-color: aqua;
+    
+}
+
+#cabeza{
+    width: 1300px;
+    height: 150px;
+    border: 1px solid;
+    background-color: rgb(63, 213, 247);
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#menu{
+    
+}
